@@ -1,0 +1,241 @@
+.container{
+
+	width:100% !important;
+}
+
+.fondo1{
+	background-color:#884F9E;
+}
+
+
+.filaa1{
+	margin-top: 2.5em;
+}
+
+.filaa2{
+	margin-top:10em;
+}
+
+.filaa3{
+	margin-top: 2.5em;
+	margin-bottom: 8em;
+}
+
+.a1{
+	color:white;
+	font-family: Bell MT;
+}
+
+.a2{
+	color:white;
+	font-family: arial black;
+	font-size: 2em;
+}
+
+.a3{
+	color: white;
+	background-color: #E57E53;
+	width: 80%;
+	border-radius: .5em;
+	height: 75px;
+	border:1px solid white;
+}
+
+
+
+.fondo2{
+	background-color: #17C1A4;
+}
+
+.filab1{
+		margin-top:8em;
+}
+
+.filab2{
+	margin-top: 6em;
+}
+
+.filab3{
+	color: white;
+	margin-top:1em;
+}
+
+.filab4{
+	color: white;
+}
+
+.filab5{
+	color: white;
+	margin-bottom: 8em;
+}
+
+.b1{
+	color: white;
+	font-family: arial black;
+	font-size: 2em;
+}
+
+.b2{
+	color: white;
+	margin-top: 2.5em;
+	font-family: arial;
+	font-size:1.2em;
+}
+
+.b3{
+	color: white;
+	font-family: arial black;
+	font-size: 1.1em;
+}
+
+
+hr{
+	width: 35%;
+	height: 3px !important ;
+	border-color: none;
+	background-color: gray;
+	opacity: 0.5;	
+}
+
+
+.fondo3{
+	background-color: #E7F2F8;
+}
+
+.j{
+	font-family: arial black;
+	font-size: 2em;
+}
+
+.filac1{
+	margin-top: 8em;
+}
+
+.filac2{
+	margin-top: 6em;
+}
+
+.filac3{
+	margin-top: 1em;
+}
+
+.filac4{
+	margin-bottom: 8em;
+}
+
+.c1{
+	font-family: arial black;
+	font-size: 1.1em;
+}
+
+.c2{
+	color: #25B9E6; 
+	font-size: 1em;
+}
+
+.c3{
+	background-color: #BDD8E6;
+	width: 15%;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 2em;
+	float: left;
+	margin-left: 13%;
+}	
+
+.c4{
+	background-color: #BDD8E6;
+	width: 15%;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 2em;
+	float: left;
+	margin-left: 1em;
+}
+
+.c5{
+	background-color: #BDD8E6;
+	width: 15%;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 2em;
+	float: left;
+	margin-left: 25%;
+}
+
+.icon-facebook:before {
+  content: "\ea90";
+  color:white;
+}
+
+.icon-twitter:before {
+  content: "\ea96";
+  color:white;
+}
+
+.icon-linkedin2:before {
+  content: "\eaca";
+  color:white;
+}
+
+.icon-mail2:before {
+  content: "\ea84";
+  color:white;
+}
+
+.fondo4{
+	background-color: #FFFFFF;
+}
+
+.filad1{
+	margin-top: 8em;
+}
+
+.filad2{
+	margin-bottom: 8em;
+}
+
+.d2{
+	color: black;
+	font-family: arial;
+	font-size:1.2em;
+}
+
+.fondo5{
+	background-color: #FFDC98;
+}
+
+.filad1{
+	margin-top: 2.5em;
+}
+
+.filaea1{
+	margin-top:5em;
+}
+
+.e1{
+	font-size: 1.3em;
+}
+
+.e2{
+	font-size: 1.3em;
+}
+
+.filaea2{
+	margin-top: 1.3em;
+}
+
+.filaae4{
+	margin-bottom: 8em;
+	margin-top: 5em;
+}
+
+.ae1{
+	background-color: #16C29E;
+	width: 60%;
+	font-size: 1.2em;
+	height: 55px !important;
+	border-radius: .5em;
+	color: white;
+	border-color: white !important;
+}
